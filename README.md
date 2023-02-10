@@ -6,7 +6,7 @@ O Packet Tracer é um programa educacional gratuito que permite simular uma rede
 
 ## *Comandos*
 
-<code>
+
 en/enable = Super usario ou modo previlegiado 
 
 conf t = Modo de configuração terminal
@@ -75,4 +75,4 @@ Router#sh startup-config (Verifica as configurações da NVRAM)
 Router#sh flash: (Verifica os arquivos de sistema operacional da Flash)
 
 Router#copy running-config startup-config (Salva as configurações ativas na RAM para a NVRAM) 
-</code>
+
